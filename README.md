@@ -21,7 +21,7 @@ My goal is to make a valuable contribution to the tech industry, continuously de
 <b /><br />
 
 ### 3. E-Commerce Shop for Shoes
--Developed an e-commerce platform for selling shoes using VB.NET, allowing users to create accounts, browse products, and complete purchases securely.
--Implemented a user-friendly shopping experience with features like a shopping cart and checkout process.
--Integrated MS Access as the backend to manage product data, user information, and order history.
--Created an admin panel for managing inventory, tracking sales, and reviewing audit logs to maintain efficient store management.
+- Developed an e-commerce platform for selling shoes using VB.NET, allowing users to create accounts, browse products, and complete purchases securely.
+- Implemented a user-friendly shopping experience with features like a shopping cart and checkout process.
+- Integrated MS Access as the backend to manage product data, user information, and order history.
+- Created an admin panel for managing inventory, tracking sales, and reviewing audit logs to maintain efficient store management.
