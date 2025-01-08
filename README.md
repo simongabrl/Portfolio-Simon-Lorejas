@@ -7,3 +7,4 @@ Driven by a strong interest in both software development and database management
 
 My goal is to make a valuable contribution to the tech industry, continuously developing both personally and professionally through practical experience and working alongside like-minded professionals.
 
+# Recent Projects
