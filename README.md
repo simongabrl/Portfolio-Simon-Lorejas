@@ -1,2 +1,2 @@
 # Simon Gabriel B. Lorejas
-About me
+## About me
