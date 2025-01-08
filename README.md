@@ -8,7 +8,7 @@ Driven by a strong interest in both software development and database management
 
 My goal is to make a valuable contribution to the tech industry, continuously developing both personally and professionally through practical experience and working alongside like-minded professionals.
 
-# Recent Projects
+# Projects
 ### Concert Ticketing Website
 -	A ticketing website built using Javascript, CSS, PHP, SQL, and HTML. Those are the platforms where the front-end and the back-end is created.
 -	Users with privilege to manage the site, Admin and User/Customer. Where Admin customizes orders up to available seats of the map of venue.
