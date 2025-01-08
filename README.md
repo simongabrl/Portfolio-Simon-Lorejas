@@ -1,4 +1,5 @@
-# Simon Gabriel B. Lorejas
+# Portfolio
+## Simon Gabriel B. Lorejas
 ### About me
 
 My name is Simon Gabriel B. Lorejas, and I am a passionate individual eager to build a successful career in the IT industry, focusing on Software Development and Database Administration. I am committed to continuous learning and improving my skills to stay ahead in this rapidly changing field.
