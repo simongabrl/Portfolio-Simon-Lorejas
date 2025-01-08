@@ -12,10 +12,10 @@ Concert Ticketing Website
 -	A ticketing website built using Javascript, CSS, PHP, SQL, and HTML. Those are the platforms where the front-end and the back-end is created.
 -	Users with privilege to manage the site, Admin and User/Customer. Where Admin customizes orders up to available seats of the map of venue.
 -	Making managing and buying ticket efficient both for Customers and Organizers
-  link : https://github.com/hanzeeel/Concert-Ticketing-Website
+-m link : https://github.com/hanzeeel/Concert-Ticketing-Website
 
 Capstone Project: Information Management System for Greenwoods Executive Village
 - Developed an Information Management System using HTML, CSS, MySQL, and JavaScript to provide a functional and responsive platform.
 - Streamlined processes for handling service requests, amenity reservations, and association dues, and payment tracking.
 - Centralized communication channels with integrated notifications, feedback features, and updates on community events and announcements.
-  link : https://greenwoodsvillageportal.site/
+-m link : https://greenwoodsvillageportal.site/
