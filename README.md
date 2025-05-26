@@ -17,7 +17,7 @@ My goal is to make a valuable contribution to the tech industry, continuously de
 ### 2. Concert Ticketing Website
 -	A ticketing website built using Javascript, CSS, PHP, SQL, and HTML. Those are the platforms where the front-end and the back-end is created.
 -	Users with privilege to manage the site, Admin and User/Customer. Where Admin customizes orders up to available seats of the map of venue.
--	Making managing and buying ticket efficient both for Customers and Organizers<br />**GitHub repository**: https://github.com/hanzeeel/Concert-Ticketing-Website
+-	Making managing and buying ticket efficient both for Customers and Organizers<br />**GitHub repository**: https://github.com/simongabrl/Concert-Ticketing-Website
 <br /><br />
 
 ### 3. E-Commerce Shop for Shoes
